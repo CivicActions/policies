@@ -1,1 +1,3 @@
-# policies
+---
+title: Policies
+---
